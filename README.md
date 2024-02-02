@@ -5,7 +5,7 @@ Certainly! Below is a Markdown file for your basic AI assistant, Tamilselvi, cre
 
 ## Overview
 
-Tamilselvi is a simple typing-based AI assistant created by Ragul Loganathan. It utilizes the Google Bard API to deliver answers and has been developed using Python. The assistant includes the `gtts` pip package for text-to-speech functionality.
+Tamilselvi is a simple typing-based AI assistant created by Ragul Loganathan. It utilizes the Google Gemini API to deliver answers and has been developed using Python. The assistant includes the `gtts` pip package for text-to-speech functionality.
 
 ## Features
 
@@ -13,7 +13,7 @@ Tamilselvi is a simple typing-based AI assistant created by Ragul Loganathan. It
   - Users can interact with Tamilselvi by typing their queries or commands.
 
 - **Google Bard API:**
-  - Utilizes the Google Bard API to fetch and deliver answers to user queries.
+  - Utilizes the Google Gemini API to fetch and deliver answers to user queries.
 
 - **Text-to-Speech:**
   - Implements the `gtts` pip package for converting text responses to speech.
@@ -21,7 +21,7 @@ Tamilselvi is a simple typing-based AI assistant created by Ragul Loganathan. It
 ## Technology Stack
 
 - **Programming Language:** Python
-- **API Integration:** Google Bard API
+- **API Integration:** Google Gemini API
 - **Text-to-Speech:** `gtts` pip package
 
 ## Usage
@@ -30,7 +30,7 @@ Tamilselvi is a simple typing-based AI assistant created by Ragul Loganathan. It
    - Interact with Tamilselvi by typing your questions or commands.
 
 2. **Receive Responses:**
-   - Tamilselvi processes the input using the Google Bard API and provides responses.
+   - Tamilselvi processes the input using the Google Gemini API and provides responses.
 
 3. **Text-to-Speech:**
    - Optionally, utilize the text-to-speech feature to hear responses.
