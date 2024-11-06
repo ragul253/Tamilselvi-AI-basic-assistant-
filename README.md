@@ -1,16 +1,16 @@
-Certainly! Below is a Markdown file for my basic AI assistant, Tamilselvi, created by Ragul Loganathan.
+Certainly! Below is a Markdown file for my basic AI assistant, Theenmozhi, created by Ragul Loganathan.
 
 ```markdown
-# Tamilselvi - Basic AI Assistant
+# Theenmozhi - Basic AI Assistant
 
 ## Overview
 
-Tamilselvi is a simple typing-based AI assistant created by Ragul Loganathan. It utilizes the Google Gemini API to deliver answers and has been developed using Python. The assistant includes the `gtts` pip package for text-to-speech functionality.
+Theenmozhi is a simple typing-based AI assistant created by Ragul Loganathan. It utilizes the Google Gemini API to deliver answers and has been developed using Python. The assistant includes the `gtts` pip package for text-to-speech functionality.
 
 ## Features
 
 - **Text Input:**
-  - Users can interact with Tamilselvi by typing their queries or commands.
+  - Users can interact with Theenmozhi by typing their queries or commands.
 
 - **Google Bard API:**
   - Utilizes the Google Gemini API to fetch and deliver answers to user queries.
@@ -27,10 +27,10 @@ Tamilselvi is a simple typing-based AI assistant created by Ragul Loganathan. It
 ## Usage
 
 1. **Type your Query:**
-   - Interact with Tamilselvi by typing your questions or commands.
+   - Interact with Theenmozhi by typing your questions or commands.
 
 2. **Receive Responses:**
-   - Tamilselvi processes the input using the Google Gemini API and provides responses.
+   - Theenmozhi processes the input using the Google Gemini API and provides responses.
 
 3. **Text-to-Speech:**
    - Optionally, utilize the text-to-speech feature to hear responses.
@@ -43,7 +43,7 @@ Tamilselvi is a simple typing-based AI assistant created by Ragul Loganathan. It
    pip install gtts
    ```
 
-3. Run the Tamilselvi Python script:
+3. Run the Theenmozhi Python script:
    ```
    python personalassistant.ipynb
    ```
